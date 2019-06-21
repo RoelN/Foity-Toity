@@ -1,6 +1,8 @@
 # Foity Toity
 
-*WORK IN PROGRESS! The following instructions might not be correct!*
+**WORK IN PROGRESS! The following instructions are not correct!**
+
+⚠️ The reason why this doesn't work is described [in this issue](https://github.com/RoelN/Foity-Toity/issues/1).
 
 Foity Toity is a font that makes all text disappear. It contain an empty, zero width glyph for every Unicode code point.
 
